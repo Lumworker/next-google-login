@@ -9,12 +9,13 @@ This project demonstrates Google login functionality using Next.js and NextAuth.
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Tutorial Video](#tutorial-video)
+- [Tutorial Video](#tutorialvideo)
+
+##Tutorialvideo
+
+[a link](https://pages.github.com/](https://www.youtube.com/watch?v=8G5tr6e2bHo))
 
 ## Installation
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
-
-[ทำหน้า login ด้วย Google Account โดย React, Next.js, NextAuth.js]([https://pages.github.com/](https://www.youtube.com/watch?v=8G5tr6e2bHo)).
 
 1. Clone the repository:
 
