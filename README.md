@@ -12,7 +12,7 @@ This project demonstrates Google login functionality using Next.js and NextAuth.
 - [Tutorial Video](#tutorialvideo)
 
 ##Tutorialvideo
-https://youtube.com/heysushil](https://www.youtube.com/watch?v=8G5tr6e2bHo
+https://www.youtube.com/watch?v=8G5tr6e2bHo
 
 
 ## Installation
